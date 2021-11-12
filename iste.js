@@ -17,7 +17,7 @@ else {
     console.log("Istekoht loositi")
     let toenaosus = Math.trunc(Math.ceil(Math.random()*3))
     if(toenaosus === 1) {
-        console.log("Aknakoht")
+        console.log("Istute akna kõrval")
     } else {
         console.log("Muu koht")
     }
