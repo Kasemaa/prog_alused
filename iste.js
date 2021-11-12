@@ -1,4 +1,4 @@
-
+// loos või ise
 let valik = prompt("Kas soovite valida oma istekoha? (jah/ei)");
 
 // istme valik
