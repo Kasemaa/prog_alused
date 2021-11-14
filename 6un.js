@@ -11,4 +11,4 @@ for (let i = 1; i <= midget; i++) {
     console.log(i + ". pöialpoiss sai " + õunad)
 }
 
-console.log("Lumivalgekesele jäi alles " + sum_õun + " õuna")
+console.log("Lumivalgekesele jäi " + sum_õun + " õuna")
